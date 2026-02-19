@@ -14,6 +14,7 @@ import androidx.core.content.ContextCompat
 import java.security.MessageDigest
 import java.util.UUID
 
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var bluetoothManager: BluetoothManager
